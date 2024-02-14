@@ -1,0 +1,11 @@
+{
+  "name": "cypressautomationtypescript",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Sanja Stojanovska",
+  "devDependencies": {
+    "cy-verify-downloads": "^0.2.2",
+    "cypress": "^13.6.3",
+    "typescript": "^5.2.2"
+  }
+}
