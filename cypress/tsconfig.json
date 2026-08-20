@@ -1,0 +1,11 @@
+//Configuration file that specifies how TypeScript should compile your TypeScript code into JavaScript
+{
+    "compilerOptions": {
+      "target": "es5", //this option specifies the ECMAScript version to which TypeScript will transpile the code
+      "lib": ["es5", "dom"], //this option specifies the libraries that are available for the code
+      "types": ["cypress", "node"], //this option specifies the TypeScript declaration files that are included in your project
+      "allowImportingTsExtensions": true,
+      "noEmit": true 
+    },
+    "include": ["**/*.ts", "cypress.d.ts", "**/**/*.ts"] //this option specifies an array of file patters that TypeScript should consider when compiling your project
+  }

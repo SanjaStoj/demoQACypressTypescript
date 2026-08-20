@@ -1,0 +1,5 @@
+{
+    "genieai.promptPrefix.customPrompt2-enabled": true,
+    "genieai.promptPrefix.customPrompt1-enabled": true,
+    "genieai.enableConversationHistory": true
+}

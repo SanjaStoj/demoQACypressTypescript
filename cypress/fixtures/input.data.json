@@ -1,0 +1,48 @@
+{
+  "loginPage": {
+  "pageTitle": "Welcome, Login in Book Store"
+  },
+
+  "profilePage":{
+    "Book1" :{
+      "Title":"Git Pocket Guide",
+      "Author":"Richard E. Silverman",
+      "Publisher":"O'Reilly Media"
+    },
+    "Book2":{
+      "Title":"Learning JavaScript Design Pattern",
+      "Author":"Addy Osmani",
+      "Publisher":"O'Reilly Media"
+    },
+    "Book3":{
+      "Title":"Designing Evolvable Web APIs with ASP.NET",
+      "Author":"Glenn Block et al.",
+      "Publisher":"O'Reilly Media"
+    },
+    "Book4":{
+      "Title":"Speaking JavaScript",
+      "Author":"Axel Rauschmayer",
+      "Publisher":"O'Reilly Media"
+    },
+    "Book5":{
+      "Title":"You Don't Know JS",
+      "Author":"Kyle Simpson",
+      "Publisher":"O'Reilly Media"
+    },
+    "Book6":{
+      "Title":"Programming JavaScript Applications",
+      "Author":"Eric Elliott",
+      "Publisher":"O'Reilly Media"
+    },
+    "Book7":{
+      "Title":"Eloquent JavaScript, Second Edition",
+      "Author":"Marijn Haverbeke",
+      "Publisher":"No Starch Press"
+    },
+    "Book8":{
+      "Title":"Understanding ECMAScript 6",
+      "Author":"Nicholas C. Zakas",
+      "Publisher":"No Starch Press"
+    }
+} 
+} 
