@@ -1,4 +1,4 @@
-// Here in the utilities we are writing all methods and we are using locators already created
+//SECOND - Here in the utilities we are writing all methods and we are using locators already created
 import loginPage from "../objects/loginPage"; // we need to import 
 const login = new loginPage();
 
